@@ -1,0 +1,7 @@
+Orientação a objetos com PHP
+pessoa{
+    nome ;
+    idade; //atributos
+
+    crecer(); //methodo
+}
